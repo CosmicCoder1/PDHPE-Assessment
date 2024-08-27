@@ -15,13 +15,13 @@ body {
     margin-left: 2.5%;
     margin-right: 2.5%;
     border-radius: 50px;
+    font-family: Tahoma;
 }
 
 .nav1, .nav2, .nav3, .nav4, .nav5, .nav6 {
-    padding-left: 4%;
-    padding-right: 4%;
+    padding-left: 3.5%;
+    padding-right: 3.5%;
     border-radius: 50px;
-   
 }
 
 .nav1:hover, .nav2:hover, .nav3:hover, .nav4:hover, .nav5:hover, .nav6:hover {
@@ -32,5 +32,12 @@ body {
     text-align: center;
     vertical-align: middle;
     margin-top: 5%;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Segoe UI';
+}
+
+.text {
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 3.5%;
+    font-family:'Trebuchet MS';
 }
