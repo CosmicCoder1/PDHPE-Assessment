@@ -1,4 +1,9 @@
-
+/*
+FONTS
+Navbar: Tahoma
+Heading: Segoe UI
+Text: Trebuchet MS
+*/
 body {
     background-color: rgba(220, 220, 220, 0.645);
 }
@@ -35,9 +40,41 @@ body {
     font-family: 'Segoe UI';
 }
 
+.sub-heading {
+    text-align: center;
+    vertical-align: middle;
+    margin-top: 5%;
+    font-family:system-ui;
+}
+
 .text {
     text-align: center;
     vertical-align: middle;
     margin-top: 3.5%;
+    margin-bottom: 3.5%;
     font-family:'Trebuchet MS';
+}
+
+.common-stereotypes-container {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: space-around;
+}
+
+.stereotype-1, .stereotype-2 {
+    padding-top: 5%;
+    margin-bottom: 5%;
+    width: 50%;
+    background-color: rgba(191, 244, 226, 0.5);
+    margin-left: 3%;
+    margin-right: 3%;
+    border-radius: 50px;
+    height: 300px;
+    vertical-align: middle;
+}
+
+.text-stereotype {
+    margin-left: 3%;
+    margin-right: 3%;
 }
