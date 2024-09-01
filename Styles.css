@@ -103,3 +103,26 @@ body {
     margin-left: 2.5%;
     margin-right: 2.5%;
   }
+
+  .img-1 {
+    height: 50%;
+    width: 50%;
+    border-radius: 50px;
+    margin-left: 25%;
+    margin-bottom: 5%;
+    border: 5px solid black;
+  }
+
+.overcome {
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.img-2 {
+    height: 300px;
+    width: 450px;
+    margin-left: 35%;
+    margin-right: 30%;
+    border-radius: 50px;
+    margin-bottom: 5%;
+}
