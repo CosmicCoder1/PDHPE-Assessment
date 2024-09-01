@@ -11,11 +11,11 @@
 - Impacts.html
   1. Perception of Self Affecting Decision Making
 - Advice.html
-  1. Important of Making Postive Choices
+  1. Important of Making Positive Choices
 - Driving Question.html
   1. How can I (a teenager) be the best version of myself, and support the identity of others?
 
 **HOW TO OPEN AND DOWNLOAD WEBSITE**
-- Download the project's zip file by oepning the link - https://github.com/CosmicCoder1/PDHPE-Assessment/archive/refs/heads/main.zip
+- Download the project's zip file by opening the link - https://github.com/CosmicCoder1/PDHPE-Assessment/archive/refs/heads/main.zip
 - Unzip the folder
 - Right click on home.html to open in your browser
