@@ -16,6 +16,6 @@
   1. How can I (a teenager) be the best version of myself, and support the identity of others?
 
 **HOW TO OPEN AND DOWNLOAD WEBSITE**
-- Download the project's zip file by opening the link - https://github.com/CosmicCoder1/PDHPE-Assessment/archive/refs/heads/main.zip
-- Unzip the folder
-- Right click on home.html to open in your browser
+- Download the project's file by opening the link - https://github.com/CosmicCoder1/PDHPE-Assessment/archive/refs/heads/main.zip
+- Find home.html (you can use the search to find it)
+- Click on home.html and it will open in the browser
